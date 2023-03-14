@@ -1,1 +1,1 @@
-Shell redirections readme
+shell init files readme
